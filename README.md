@@ -1,4 +1,3 @@
-# grupo_10_VINTAGE-SOUL
 **Vintage Soul**
 Ropa americana seleccionada, autodescubrimiento y amor propio a través de estilo único e irrepetible. _“Comprar ropa de segunda mano, además de ser económico, es ser consciente de nuestros consumos ynuestra huella en la tierra”_
 
@@ -19,10 +18,15 @@ JAVASCRIPT   HTML        CSS
 - Google Chrome
 
 **Paginas de referencia :** 📋
-http://www.elburgues.com/
-http://www.zara.com/ar/
-http://www.wanama.com/
-http://thevelvetsecret.com/home: Está página está enfocada en laropa y su historia, en como combinar y encontrar unestilo propio con las herramientas actualizadas que 
+http://www.elburgues.com/ : Esta pagina tiene los accesos bien marcados y es muy vistosa, y agradable de utilizar.
+
+http://www.zara.com/ar/ : Esta pagina se ve  bien definido cada paso de la compra.
+
+http://www.wanama.com/ : Esta pagina prioriza las imangenes que abarcan todo el espacio de la pagina. 
+
+https://www.cuestablanca.com/ : Esta pagina  sobresale los anuncios de descuentos y es atractivo al comprador. 
+
+http://thevelvetsecret.com/home: Está página está enfocada en la ropa y su historia, en como combinar y encontrar unestilo propio con las herramientas actualizadas que 
 brinda la autora. Es muy elegante, vistosa la distribución de la página y fácil de usar. 
 
 **Ropa en exhibición**
