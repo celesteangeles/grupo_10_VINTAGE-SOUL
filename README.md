@@ -32,7 +32,8 @@ Ropa en exhibición📖
 Podes ingresar:  https://www.instagram.com/vintagesoulferia/ 
 
 **Equipo de codigo**✒️
-•	@agusberet  Agustin Beret 
+•	@agusberet  Agustin Beret : soy de los abogados que no les gustó la profesión y se dedican a otra cosa.
+Tengo 34 años y actualmente me dedico a las finanzas. Trabajo mucho con contenidos y nuestro sitio web y me entusiasma el curso para tener más herramientas para aplicar a las tareas diarias.
 
 •	@scarrambergj Julian Scarramberg : Me considero una persona amistosa con el resto, no tengo ningún problema en trabajar en grupo, sea de la manera en la que sea. Fanatico de River y Harry Potter. 
 
@@ -48,3 +49,4 @@ _> Emails:_
 - celesteangeles94@gmail.com 
 - scarrambergj@gmail.com
 - talcahuano85@gmail.com
+- agustin@cartafinanciera.com
