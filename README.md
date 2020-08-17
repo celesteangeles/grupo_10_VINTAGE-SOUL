@@ -38,7 +38,7 @@ Podes ingresar: https://www.instagram.com/vintagesoulferia/
 - Agustin Beret
 - Julian Scarramberg
 - Vaneza Ruiz
-- Celeste Angeles Torres
+- Celeste Angeles TorresEstudiante del primer año de Lic en Sistemas de la UNGS, 26 años, vivo en San Miguel, Buenos Aires. Este proyecto me incentiva mucho a poder seguir aprendiendo programación y desarrollarme laboralmente de lo mismo en futuro cercano.     
 
 **Contacto soporte de ayuda:**
 
