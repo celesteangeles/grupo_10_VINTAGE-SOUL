@@ -37,7 +37,9 @@ Tengo 34 años y actualmente me dedico a las finanzas. Trabajo mucho con conteni
 
 •	@scarrambergj Julian Scarramberg : Me considero una persona amistosa con el resto, no tengo ningún problema en trabajar en grupo, sea de la manera en la que sea. Fanatico de River y Harry Potter. 
 
-•	Vaneza Ruiz
+•	Vaneza Ruiz: Soy analista de Marketing Digital y estudiante de la carrera de Lic. en Sistemas Informáticos.
+Decidí realizar este curso de Desarrollo Web para actualizar y mejorar mis conocimientos en  programación, y, principalmente,
+para adquirir nuevas habilidades de diseño web y de esta manera, dejar de depender de plantillas web pre-diseñadas.
 
 •	@celesteangeles Celeste Angeles Torres : Estudiante del primer año de Lic en Sistemas de la UNGS, 26 años, vivo en San Miguel, Buenos Aires. Este proyecto me incentiva mucho a poder seguir aprendiendo programación y desarrollarme laboralmente de lo mismo en futuro cercano.
 
