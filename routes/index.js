@@ -10,4 +10,8 @@ router.get('/Home', function(req,res){
   res.render('Home');
 });
 
+router.get('/productDetail', function(req, res) {
+  res.render('productDetail');
+});
+
 module.exports = router;
